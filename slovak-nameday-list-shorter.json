@@ -1,5 +1,8 @@
 {
    "0":{
+      "1":"dummy"
+   },
+   "1":{
       "1":"Nový rok",
       "2":"Alexandra, Karina",
       "3":"Daniela",
@@ -32,7 +35,7 @@
       "30":"Ema",
       "31":"Emil"
    },
-   "1":{
+   "2":{
       "1":"Tatiana",
       "2":"Erik, Erika",
       "3":"Blažej",
@@ -63,7 +66,7 @@
       "28":"Zlatica",
 	  "29":"Radomír"
    },
-   "2":{
+   "3":{
       "1":"Albín",
       "2":"Anežka",
       "3":"Bohumil",
@@ -96,7 +99,7 @@
       "30":"Vieroslava",
       "31":"Benjamín"
    },
-   "3":{
+   "4":{
       "1":"Hugo",
       "2":"Zita",
       "3":"Richard",
@@ -128,7 +131,7 @@
       "29":"Lea",
       "30":"Anastázia"
    },
-   "4":{
+   "5":{
       "1":"Sviatok práce",
       "2":"Žigmund",
       "3":"Galina, Timea",
@@ -161,7 +164,7 @@
       "30":"Ferdinand",
       "31":"Petrana, Petronela"
    },
-   "5":{
+   "6":{
       "1":"Žaneta",
       "2":"Oxana, Xénia",
       "3":"Karolína",
@@ -193,7 +196,7 @@
       "29":"Peter, Pavol, Petra",
       "30":"Melánia"
    },
-   "6":{
+   "7":{
       "1":"Diana",
       "2":"Berta",
       "3":"Miloslav",
@@ -226,7 +229,7 @@
       "30":"Libuša",
       "31":"Ignác"
    },
-   "7":{
+   "8":{
       "1":"Božidara",
       "2":"Gustáv",
       "3":"Jerguš",
@@ -259,7 +262,7 @@
       "30":"Ružena",
       "31":"Nora"
    },
-   "8":{
+   "9":{
       "1":"Drahoslava",
       "2":"Linda, Rebeka",
       "3":"Belo",
@@ -291,7 +294,7 @@
       "29":"Michal, Michaela",
       "30":"Jarolím"
    },
-   "9":{
+   "10":{
       "1":"Arnold",
       "2":"Levoslav",
       "3":"Stela",
@@ -324,7 +327,7 @@
       "30":"Šimon, Simona",
       "31":"Aurélia"
    },
-   "10":{
+   "11":{
       "1":"Denis, Denisa",
       "2":"Pamiatka zosnulých",
       "3":"Hubert",
@@ -356,7 +359,7 @@
       "29":"Vratko",
       "30":"Andrej, Ondrej"
    },
-   "11":{
+   "12":{
       "1":"Edmund",
       "2":"Bibiána",
       "3":"Oldrich",
